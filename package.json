@@ -1,0 +1,13 @@
+{
+  "name": "api_test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Vinny The Dev <vincentmarcos@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  },"scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  }
+}
